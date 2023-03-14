@@ -15,7 +15,7 @@
         android:theme="@style/ToolbarStyle"
         app:navigationIcon="@drawable/ic_close"
         app:navigationIconTint="@color/red"
-        app:title="@string/app_name"
+        app:title="Music Player Innova"
         app:titleTextAppearance="@style/ToolbarStyle.Title"
         app:titleTextColor="@color/red" />
 
